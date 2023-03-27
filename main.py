@@ -16,6 +16,3 @@ options = {
 # convert HTML file to PDF
 pdfkit.from_file(input_file, output_file, options=options)
 
-
-
-hi this is vineetha
